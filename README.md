@@ -47,7 +47,7 @@ If you need any assistance or have any questions, you can reach out to the autho
 
 None
 
-##Roadmap
+## Roadmap
 
 Add support for additional document formats (e.g., .doc, .odt)
 Implement multi-threading for faster conversions
@@ -60,7 +60,8 @@ Dodman Mwaura - Initial development
 
 The Word to PDF Converter program was inspired by the need for a simple and efficient tool to convert Word documents to PDF format. The following resources were used during the development of this program:
 
-Python-docx - Library for working with Word documents in Python
+Python-docx - Library for working with Word documents in Python.
+
 Docx2pdf - Library for converting Word documents to PDF format
 
 ## Changelog
