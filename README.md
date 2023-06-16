@@ -10,8 +10,8 @@ To use the Word to PDF Converter, follow these steps:
 
 Make sure you have Python installed on your system (version 3.6 or higher).
 Install the required libraries by running the following command:
-```shell
-pip install python-docx docx2pdf
+    
+    ```pip install python-docx docx2pdf
 
 ## Usage
 
