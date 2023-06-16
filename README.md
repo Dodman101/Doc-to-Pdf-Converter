@@ -41,7 +41,7 @@ This project is licensed under the MIT License.
 
 ## Support
 
-If you need any assistance or have any questions, you can reach out to the author at [email@example.com].
+If you need any assistance or have any questions, you can reach out to the author at [http://scr.im/dodman].
 
 ## Known Issues
 
